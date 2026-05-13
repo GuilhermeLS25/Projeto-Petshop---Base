@@ -251,11 +251,11 @@ iframe {
 
 /* RESPONSIVIVADE */
 @media (max-width: 768px) {
-  #menu-btn{
+  #menu-btn {
     display: block;
   }
 
-  nav{
+  nav {
     display: none;
     position: absolute;
     top: 85px;
@@ -271,26 +271,24 @@ iframe {
     display: flex;
   }
 
-  .hero h1{
+  .hero h1 {
     font-size: 38px;
   }
 
-  .hero p{
+  .hero p {
     font-size: 18px;
   }
 
-  h2{
+  h2 {
     font-size: 24px;
   }
 
-  .galeria{
+  .galeria {
     grid-template-columns: 1fr;
     justify-content: center;
-
   }
 
-  .galeria img{
+  .galeria img {
     height: 250px;
   }
-  
 }
